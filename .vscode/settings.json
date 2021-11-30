@@ -1,0 +1,13 @@
+{
+  "files.exclude": {
+    ".gitignore": true,
+    "**/.env*": true,
+    "**/.git": true,
+    "**/.hub": true,
+    "**/.vscode": true,
+    "**/jest.config.js": true,
+    "**/package*.json": true,
+    "**/tsconfig.json": true
+  },
+  "liveServer.settings.port": 670
+}
